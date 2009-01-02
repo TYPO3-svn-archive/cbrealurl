@@ -1,0 +1,7 @@
+config {
+	baseURL = {$config.baseURL}
+    tx_realurl_enable = {$config.tx_realurl_enable}
+    simulateStaticDocuments = {$config.simulateStaticDocuments}
+    no_cache = {$config.no_cache}
+	prefixLocalAnchors = {$config.prefixLocalAnchors}
+}

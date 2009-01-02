@@ -1,0 +1,109 @@
+2008-04-02 Wednesday 18:50  cannon
+
+	* ext_emconf.php: post 1.1.0 checkin
+
+2008-04-02 Wednesday 18:49  cannon
+
+	* ext_emconf.php, doc/manual.sxw: manual title revision
+
+2008-04-02 Wednesday 18:46  cannon
+
+	* ext_emconf.php, CHANGELOG: post 1.0.4 checkin
+
+2008-04-02 Wednesday 18:44  cannon
+
+	* CHANGELOG, README.txt: revise readme to manual
+
+2008-04-02 Wednesday 18:44  cannon
+
+	* doc/manual.sxw: Inital import of "manual.sxw" file
+
+2008-04-02 Wednesday 17:26  cannon
+
+	* realurl.php: custom var
+
+2008-04-02 Wednesday 16:02  cannon
+
+	* static/CB_RealURL/constants.txt: create cbrealurl page
+
+2008-04-02 Wednesday 15:59  cannon
+
+	* README.txt, realurl.php, static/CB_RealURL/constants.txt: create
+	  own constants pages; drop realurl-custom.php in ext linking
+
+2008-04-02 Wednesday 15:57  cannon
+
+	* realurl-custom-sample.php, realurl-custom.php: Move
+	  "realurl-custom.php" to "realurl-custom-sample.php"
+
+2007-11-29 Thursday 18:26  cannon
+
+	* CHANGELOG, ext_emconf.php: 1.0.3 checkin
+
+2007-11-29 Thursday 18:23  cannon
+
+	* realurl.php: mod default html and 404 erroring
+
+2007-11-29 Thursday 18:16  cannon
+
+	* CHANGELOG: Inital import of "CHANGELOG" file
+
+2007-11-29 Thursday 18:15  cannon
+
+	* ChangeLog: Remoal of "ChangeLog"
+
+2007-11-29 Thursday 18:13  cannon
+
+	* realurl.php: update realurl to be more like autoconf from
+	  realurl; backPid key
+
+2007-11-23 Friday 08:54  cannon
+
+	* ext_emconf.php: misc category
+
+2007-11-22 Thursday 11:27  cannon
+
+	* ChangeLog, ext_emconf.php: 1.0.2 checkin
+
+2007-11-22 Thursday 11:24  cannon
+
+	* README.txt, realurl-custom.php, realurl.php: README update;
+	  realurl conf cleanup
+
+2007-11-22 Thursday 10:54  cannon
+
+	* ChangeLog, ext_emconf.php: version 1.0.1 checkin
+
+2007-11-22 Thursday 10:48  cannon
+
+	* README.txt, realurl-custom.php, realurl.php: README update,
+	  realurl config change, dropping of baseline rootpage_id
+
+2007-11-21 Wednesday 14:28  cannon
+
+	* README.txt: update readme with short install
+
+2007-11-21 Wednesday 14:18  cannon
+
+	* ext_emconf.php: 1.0.0 check-in
+
+2007-11-21 Wednesday 14:15  cannon
+
+	* realurl.php: narc/ncat change
+
+2007-11-21 Wednesday 14:12  cannon
+
+	* ChangeLog, README.txt, ext_emconf.php, ext_icon.gif,
+	  ext_localconf.php, ext_tables.php, realurl-custom.php,
+	  realurl.php, doc/wizard_form.dat, doc/wizard_form.html,
+	  static/CB_RealURL/constants.txt, static/CB_RealURL/setup.txt
+	  (utags: initial): Initial cbrealurl TYPO3 extension import
+
+2007-11-21 Wednesday 14:12  cannon
+
+	* ChangeLog, README.txt, ext_emconf.php, ext_icon.gif,
+	  ext_localconf.php, ext_tables.php, realurl-custom.php,
+	  realurl.php, doc/wizard_form.dat, doc/wizard_form.html,
+	  static/CB_RealURL/constants.txt, static/CB_RealURL/setup.txt:
+	  Initial revision
+
